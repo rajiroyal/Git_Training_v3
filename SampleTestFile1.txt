@@ -1,2 +1,2 @@
 This is Sample File 1
-testing reset commit 1
+GIT Revert change 2
